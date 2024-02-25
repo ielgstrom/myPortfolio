@@ -1,0 +1,52 @@
+{
+    "ceramica":[
+        {
+            "url":"https://m.media-amazon.com/images/I/61BjFU8MRQL._AC_UF894,1000_QL80_.jpg",
+            "description":"Este texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Tiesto marrón",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://carolinabluebarcelona.com/tienda/5819-large_default/jarra-ceramica-granadina-lila.jpg",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Jarra mediana",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://sirambahome.com/wp-content/uploads/2022/06/jarron-terracota-clarito.jpg",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Jarrón mediano",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://alfajar.es/contenido/subidas/2022/06/0220-alfajar-ceramica-pequeno-formato-vaso-ceramico-2-2.jpg",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Vaso pequeño",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://www.villeroy-boch.es/dw/image/v2/BCRC_PRD/on/demandware.static/-/Sites-master/default/dwaa30c99d/images/1951672700_on_fs-m-1.jpg?sw=620",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Plato fondo",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://kyotoboutique.fr/65405/plato-pequeno-de-ceramica-japonesa-beige-y-verde-oribe.jpg",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Plato pequeño",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://i0.wp.com/mallorcraft.com/wp-content/uploads/2021/10/ceramica-artesanal-1-scaled.jpg?fit=2560%2C1920&ssl=1",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Plato plano",
+            "dateDone":"date"
+        },
+        {
+            "url":"https://i.etsystatic.com/9154481/r/il/40a416/2030233240/il_570xN.2030233240_m0k4.jpg",
+            "description":"ste texto descriptivo sirve como ejemplo de como ha de quedar un texto en el futuro",
+            "title":"Taza pequeña",
+            "dateDone":"date"
+        }
+    ]
+}
